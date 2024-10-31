@@ -1,0 +1,14 @@
+.quote_source_box .description
+{ display:none; }
+.quote_source_box label
+{ display:block; font-weight:bold; margin:6px; margin-bottom:0; margin-top:12px; }
+.quote_source_box label span
+{ display:inline; font-weight:normal; }
+.quote_source_box span
+{ color:#999; display:block; }
+.quote_source_box textarea, .quote_source_box input[type='text']
+{ margin-bottom:3px; width:100%; }
+.quote_source_box h4
+{ color:#999; font-size:1em; margin:15px 6px; text-transform:uppercase; }
+.quote_source_desc 
+{ font-size: 9px; color: #999; }
